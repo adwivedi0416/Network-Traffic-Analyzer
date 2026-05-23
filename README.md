@@ -136,7 +136,4 @@ Designed for **NSL-KDD** — improved version of KDD Cup 99.
 ## 🛠️ Tech Stack
 **ML:** scikit-learn · XGBoost &nbsp;|&nbsp; **Data:** NumPy · Pandas &nbsp;|&nbsp; **API:** Flask · joblib
 
----
 
-## 📄 License
-MIT License — see [LICENSE](LICENSE)
